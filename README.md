@@ -1,10 +1,10 @@
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%2C%20Practical%20Solutions&descAlignY=62&descSize=16" alt="Aakash V - GitHub Profile Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%2C%20Practical%20Solutions&descAlignY=62&descSize=16" alt="header" width="100%"/>
 </picture>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Aakash+V+%F0%9F%91%8B;AI+%26+Data+Science+Undergraduate;Building+Intelligent+Practical+Solutions;Python+%7C+Java+%7C+ML+%7C+YOLO+%7C+XGBoost)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Aakash+V+%F0%9F%91%8B;AI+%26+Data+Science+Undergraduate;Building+Intelligent+Practical+Solutions;Python+%7C+Java+%7C+ML+%7C+YOLO+%7C+XGBoost)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -90,11 +90,11 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/Master1910-oct">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
+  <img height="180em" src="./profile/stats.svg"/>
 </a>
 &nbsp;
 <a href="https://github.com/Master1910-oct">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
+  <img height="180em" src="./profile/langs.svg"/>
 </a>
 
 </div>
@@ -105,7 +105,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Master1910-oct&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Master1910-oct&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com)
 
 </div>
 
@@ -115,7 +115,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Aakash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Master1910-oct&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aakash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Master1910-oct&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app)
 
 </div>
 
@@ -125,8 +125,8 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Master1910-oct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Aakash's Trophies" />
+<a href="https://github.com/Master1910-oct">
+  <img src="./profile/trophy.svg" alt="Aakash's Trophies"/>
 </a>
 
 </div>
@@ -218,7 +218,7 @@ print(me.motto())
 
 [![Email](https://img.shields.io/badge/Email-aakash1910v%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aakash1910v@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakash%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-v)
-[![GitHub](https://img.shields.io/badge/GitHub-Master1910-oct-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Master1910-oct)
+[![GitHub](https://img.shields.io/badge/GitHub-Master1910--oct-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Master1910-oct)
 [![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai,India)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Master1910-oct&color=70a5fd&style=flat-square&label=Profile+Views)
