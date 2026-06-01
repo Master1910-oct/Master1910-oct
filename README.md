@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Undergrad%20%7C%20Building%20Intelligent%2C%20Practical%20Solutions&descAlignY=62&descSize=16" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Undergrad%20%7C%20Building%20Intelligent%2C%20Practical%20Solutions&descAlignY=62&descSize=16)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Aakash+V+%F0%9F%91%8B;AI+%26+Data+Science+Undergrad+%40+RMKCET;Building+Intelligent%2C+Practical+Solutions+%F0%9F%A4%96;Python+%7C+Java+%7C+ML+%7C+MERN+Stack+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I%27m+Aakash+V+%F0%9F%91%8B;AI+%26+Data+Science+Undergrad+%40+RMKCET;Building+Intelligent%2C+Practical+Solutions+%F0%9F%A4%96;Python+%7C+Java+%7C+ML+%7C+MERN+Stack+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -86,12 +86,7 @@ class AakashV:
 
 <div align="center">
 
-<a href="https://github.com/Master1910-oct">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/Master1910-oct">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
+[![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)](https://github.com/Master1910-oct)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/Master1910-oct)
 
 </div>
 
@@ -101,7 +96,7 @@ class AakashV:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Master1910-oct&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Master1910-oct&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com)
 
 </div>
 
@@ -121,7 +116,7 @@ class AakashV:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Master1910-oct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Master1910-oct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -205,10 +200,10 @@ class AakashV:
 🧠 Natural Language Processing & LLMs
     → Transformers, Fine-tuning, Prompt Engineering, RAG
 
-☁️ Cloud Platforms
+☁️  Cloud Platforms
     → AWS (EC2, S3, Lambda), GCP (Vertex AI, BigQuery)
 
-🏗️ System Design
+🏗️  System Design
     → Scalable Architectures, Microservices, API Design Patterns
 
 📊 Advanced ML & MLOps
@@ -227,4 +222,4 @@ class AakashV:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
