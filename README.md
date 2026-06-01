@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%2C%20Practical%20Solutions&descAlignY=62&descSize=16" width="100%"/>
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%2C%20Practical%20Solutions&descAlignY=62&descSize=16" alt="Aakash V - GitHub Profile Header" width="100%"/>
+</picture>
 
 <div align="center">
 
@@ -88,10 +90,11 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/Master1910-oct">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
 </a>
+&nbsp;
 <a href="https://github.com/Master1910-oct">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
 </a>
 
 </div>
@@ -122,7 +125,9 @@ print(me.motto())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Master1910-oct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Master1910-oct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Aakash's Trophies" />
+</a>
 
 </div>
 
