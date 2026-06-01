@@ -87,11 +87,11 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/aakash1910v">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aakash1910v&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Master1910-oct">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/aakash1910v">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash1910v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Master1910-oct">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -102,7 +102,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aakash1910v&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Master1910-oct&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -112,7 +112,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Aakash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aakash1910v&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aakash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Master1910-oct&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -122,7 +122,7 @@ print(me.motto())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aakash1910v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Master1910-oct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -152,9 +152,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| 🔍 **[Expiry Detection System](https://github.com/aakash1910v)** | Python · YOLO · OCR · Regex · Dashboard | AI detects & extracts expiry dates from product labels in real-time; includes inventory tracking, alert system, and analytics dashboard to cut supermarket wastage |
-| 🏙️ **[Smart Civic Issue Management System](https://github.com/aakash1910v)** | Python · AI Classification · Geo-tagging · Dashboard | Crowdsourced civic issue reporting via photo, voice & text + auto-location; AI routes complaints to departments automatically with real-time government tracking |
-| 🏥 **[Prediction of Sepsis](https://github.com/aakash1910v)** | Python · XGBoost · LightGBM · Platt Calibration | Trained on **1.55M ICU records**; 24-parameter ML risk scoring; XGBoost–LightGBM ensemble with Platt calibration; real-time clinical ICU decision dashboards |
+| 🔍 **[Expiry Detection System](https://github.com/Master1910-oct)** | Python · YOLO · OCR · Regex · Dashboard | AI detects & extracts expiry dates from product labels in real-time; includes inventory tracking, alert system, and analytics dashboard to cut supermarket wastage |
+| 🏙️ **[Smart Civic Issue Management System](https://github.com/Master1910-oct)** | Python · AI Classification · Geo-tagging · Dashboard | Crowdsourced civic issue reporting via photo, voice & text + auto-location; AI routes complaints to departments automatically with real-time government tracking |
+| 🏥 **[Prediction of Sepsis](https://github.com/Master1910-oct)** | Python · XGBoost · LightGBM · Platt Calibration | Trained on **1.55M ICU records**; 24-parameter ML risk scoring; XGBoost–LightGBM ensemble with Platt calibration; real-time clinical ICU decision dashboards |
 
 </div>
 
@@ -213,10 +213,10 @@ print(me.motto())
 
 [![Email](https://img.shields.io/badge/Email-aakash1910v%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aakash1910v@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakash%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-v)
-[![GitHub](https://img.shields.io/badge/GitHub-aakash1910v-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aakash1910v)
+[![GitHub](https://img.shields.io/badge/GitHub-Master1910-oct-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Master1910-oct)
 [![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai,India)
 
-![Profile Views](https://komarev.com/ghpvc/?username=aakash1910v&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Master1910-oct&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
