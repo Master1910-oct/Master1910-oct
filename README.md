@@ -1,28 +1,30 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Undergrad%20%7C%20Building%20Intelligent%2C%20Practical%20Solutions&descAlignY=62&descSize=16)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Undergrad%20%7C%20Building%20Intelligent%20Practical%20Solutions&descAlignY=62&descSize=16" width="100%"/>
+</div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate+%F0%9F%A4%96;Python+%7C+ML+%7C+Computer+Vision+%7C+YOLO;Building+Smart+Civic+%26+Healthcare+Solutions;Turning+Data+into+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Undergraduate;Python+%7C+ML+%7C+Computer+Vision+%7C+YOLO;Building+Smart+Civic+%26+Healthcare+Solutions;Turning+Data+into+Real-World+Impact" alt="Typing SVG"/>
+  </a>
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 # about_me.py
 
-name             = "Aakash V"
-location         = "Chennai, India"
-degree           = "B.Tech AI & Data Science, R.M.K. College of Engg & Tech"
-stack            = ["Python", "Java", "MySQL", "HTML & CSS", "Pandas", "NumPy"]
-tools            = ["Jupyter Notebook", "Google Colab", "Git & GitHub", "Postman"]
-learning         = ["Deep Learning", "MLOps", "Cloud Computing"]
-fun_fact         = "I once built a sepsis predictor trained on 1.55M ICU records!"
-motto            = lambda: "Build intelligently. Solve practically. Impact meaningfully."
+name        = "Aakash V"
+location    = "Chennai, India"
+degree      = "B.Tech AI & Data Science, R.M.K. College of Engg & Tech"
+stack       = ["Python", "Java", "MySQL", "HTML & CSS", "Pandas", "NumPy"]
+tools       = ["Jupyter Notebook", "Google Colab", "Git & GitHub", "Postman"]
+learning    = ["Deep Learning", "MLOps", "Cloud Computing"]
+fun_fact    = "I built a sepsis predictor trained on 1.55M ICU records!"
+motto       = lambda: "Build intelligently. Solve practically. Impact meaningfully."
 ```
 
 <br clear="right"/>
@@ -68,12 +70,9 @@ motto            = lambda: "Build intelligently. Solve practically. Impact meani
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Master1910-oct">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/Master1910-oct">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Aakash's GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
 </div>
 
 ---
@@ -81,21 +80,23 @@ motto            = lambda: "Build intelligently. Solve practically. Impact meani
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Master1910-oct&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=Master1910-oct&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Master1910-oct&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Master1910-oct)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Master1910-oct&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
 
 ---
 
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Master1910-oct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Master1910-oct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -112,6 +113,7 @@ motto            = lambda: "Build intelligently. Solve practically. Impact meani
 - Built and integrated backend REST APIs for seamless frontend-to-database communication.
 - Implemented database integration and managed schema design for dynamic web applications.
 - Strengthened practical skills in both front-end and back-end development through real-world project delivery.
+
 </details>
 
 ---
@@ -155,7 +157,7 @@ motto            = lambda: "Build intelligently. Solve practically. Impact meani
 
 | 🎓 Degree | 🏛 Institution | 📅 Year | 📊 Score |
 |:---:|:---:|:---:|:---:|
-| B.Tech — AI & Data Science | R.M.K. College of Engineering and Technology | 2023 – 2027 | CGPA: 8.20 / 10 |
+| B.Tech — AI & Data Science | R.M.K. College of Engineering and Technology | 2023 – 2027 | 8.20 / 10 |
 | Higher Secondary (State Board) | Jaigopal Garodia Matric. Hr. Sec. School | 2022 – 2023 | 82% |
 | Secondary School (State Board) | Jaigopal Garodia Matric. Hr. Sec. School | 2020 – 2021 | 100% |
 
@@ -167,9 +169,9 @@ motto            = lambda: "Build intelligently. Solve practically. Impact meani
 
 ```python
 currently_learning = {
-    "deep_learning"  : "Neural networks, CNNs, RNNs for advanced AI projects",
-    "mlops"          : "Model deployment, monitoring, and CI/CD for ML pipelines",
-    "cloud_computing": "AWS fundamentals and cloud-based AI services",
+    "deep_learning"   : "Neural networks, CNNs, RNNs for advanced AI projects",
+    "mlops"           : "Model deployment, monitoring & CI/CD for ML pipelines",
+    "cloud_computing" : "AWS fundamentals and cloud-based AI services",
 }
 ```
 
@@ -179,8 +181,8 @@ currently_learning = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-aakash1910v@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aakash1910v@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakash%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR_LINKEDIN])
+[![Email](https://img.shields.io/badge/Email-aakash1910v%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aakash1910v@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakash%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-v-a728b9288/)
 [![GitHub](https://img.shields.io/badge/GitHub-Master1910--oct-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Master1910-oct)
 
 </div>
@@ -188,7 +190,9 @@ currently_learning = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Master1910-oct&color=70a5fd&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Master1910-oct&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
