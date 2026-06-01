@@ -20,7 +20,7 @@
 name        = "Aakash V"
 location    = "Chennai, India"
 degree      = "B.Tech AI & Data Science, R.M.K. College of Engg & Tech"
-stack       = ["Python", "Java", "MySQL", "HTML & CSS", "Pandas", "NumPy"]
+stack       = ["Python", "Java", "MySQL", "HTML and CSS", "Pandas", "NumPy"]
 tools       = ["Jupyter Notebook", "Google Colab", "Git & GitHub", "Postman"]
 learning    = ["Deep Learning", "MLOps", "Cloud Computing"]
 fun_fact    = "I built a sepsis predictor trained on 1.55M ICU records!"
