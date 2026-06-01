@@ -16,7 +16,7 @@
 class AakashV:
     name        = "Aakash V"
     location    = "Chennai, Tamil Nadu, India"
-    degree      = "B.Tech in AI & Data Science (2023–2027)"
+    degree      = "B.Tech in AI & Data Science (2023-2027)"
     email       = "aakash1910v@gmail.com"
     github      = "Master1910-oct"
 
@@ -33,10 +33,10 @@ class AakashV:
         "System Design"
     ]
 
-    fun_fact = "I built an AI that can read expiry dates faster than you can blink!"
+    fun_fact = "I built an AI that reads expiry dates faster than you can blink!"
 
     def motto(self):
-        return "Build solutions that matter. Learn every single day. 🚀"
+        return "Build solutions that matter. Learn every single day."
 ```
 
 <br clear="right"/>
@@ -86,7 +86,9 @@ class AakashV:
 
 <div align="center">
 
-[![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)](https://github.com/Master1910-oct)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/Master1910-oct)
+[![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)](https://github.com/Master1910-oct)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/Master1910-oct)
 
 </div>
 
@@ -128,10 +130,10 @@ class AakashV:
 <summary><b>🏢 Altruisty — MERN Full-Stack Development Intern</b> | 2024 | Remote</summary>
 <br>
 
-> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-> ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 - 🌐 Developed **responsive, user-friendly websites** using the full MERN stack from scratch
 - 🔌 Built and integrated **backend REST APIs** with Express.js and Node.js
@@ -150,7 +152,7 @@ class AakashV:
 |:-------:|:-----:|:----------:|
 | [🔍 Expiry Detection System](https://github.com/Master1910-oct) | Python · YOLO · OCR · Regex · Dashboard | AI-based system to auto-detect expiry dates from product labels; real-time alerts + inventory tracking to reduce supermarket wastage |
 | [🏙️ Smart Civic Issue Management System](https://github.com/Master1910-oct) | Python · AI Classification · React · Node.js · MongoDB | Crowdsourced civic issue platform with photo/voice/text reporting, AI complaint routing, auto-location tagging & real-time govt dashboards |
-| [🏥 Prediction of Sepsis](https://github.com/Master1910-oct) | Python · XGBoost · LightGBM · Platt Calibration · ICU Data | Early warning AI system trained on **1.55M ICU records** with 24-parameter analysis, ensemble ML risk scoring & real-time clinical dashboards |
+| [🏥 Prediction of Sepsis](https://github.com/Master1910-oct) | Python · XGBoost · LightGBM · Platt Calibration · ICU Data | Early warning AI system trained on 1.55M ICU records with 24-parameter analysis, ensemble ML risk scoring and real-time clinical dashboards |
 
 </div>
 
@@ -218,7 +220,7 @@ class AakashV:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-v-a728b9288/)
 [![Email](https://img.shields.io/badge/Email-aakash1910v%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aakash1910v@gmail.com)
 
-*"Build solutions that matter. Learn every single day. 🚀"*
+*"Build solutions that matter. Learn every single day."*
 
 </div>
 
