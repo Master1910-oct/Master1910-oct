@@ -91,13 +91,14 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/Master1910-oct">
-  <img height="180em" src="./profile/stats.svg"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Master1910-oct">
-  <img height="180em" src="./profile/langs.svg"/>
-</a>
+| Metric | Value |
+|--------|-------|
+| 🌟 Total Contributions | 163+ |
+| 🔥 Longest Streak | 8 days (Mar 20 – Mar 27) |
+| 📦 Public Repositories | 13 |
+| 🎓 CGPA | 8.20 / 10 |
+| 💻 Primary Language | Python |
+| 📍 Location | Chennai, India |
 
 </div>
 
