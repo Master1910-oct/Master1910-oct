@@ -16,28 +16,21 @@ jobs:
       - name: Create profile directory
         run: mkdir -p profile
 
-      - name: Download and validate stats card
-        run: |
-          curl -s -o profile/stats.svg \
-            "https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"
-          head -1 profile/stats.svg | grep -q "<svg" && echo "✅ stats.svg OK" || { echo "❌ stats.svg is not SVG:"; head -3 profile/stats.svg; rm profile/stats.svg; exit 1; }
-
-      - name: Download and validate langs card
-        run: |
-          curl -s -o profile/langs.svg \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"
-          head -1 profile/langs.svg | grep -q "<svg" && echo "✅ langs.svg OK" || { echo "❌ langs.svg is not SVG:"; head -3 profile/langs.svg; rm profile/langs.svg; exit 1; }
-
-      - name: Download and validate trophy card
+      - name: Download trophy card
         run: |
           curl -s -o profile/trophy.svg \
             "https://github-profile-trophy.vercel.app/?username=Master1910-oct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"
-          head -1 profile/trophy.svg | grep -q "<svg" && echo "✅ trophy.svg OK" || { echo "❌ trophy.svg is not SVG:"; head -3 profile/trophy.svg; rm profile/trophy.svg; exit 1; }
+          if head -1 profile/trophy.svg | grep -q "<svg"; then
+            echo "✅ trophy.svg is valid"
+          else
+            echo "⚠️ trophy.svg invalid, removing"
+            rm -f profile/trophy.svg
+          fi
 
       - name: Commit cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/
-          git commit -m "chore: update readme stat cards" || echo "Nothing to commit"
+          git diff --staged --quiet || git commit -m "chore: update readme cards"
           git push || echo "Nothing to push"
