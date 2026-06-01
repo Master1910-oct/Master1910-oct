@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Typing animation header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aakash+V+%F0%9F%91%8B;AI+%26+Data+Science+Undergraduate;ML+Engineer+%7C+Problem+Solver;Building+intelligent%2C+practical+solutions" alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges row -->
 ![Location](https://img.shields.io/badge/Chennai%2C%20India-0078D7?style=flat&logo=googlemaps&logoColor=white)
 ![CGPA](https://img.shields.io/badge/CGPA-8.20%2F10-brightgreen?style=flat)
 ![Degree](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-purple?style=flat)
@@ -28,7 +26,6 @@ Currently exploring the intersection of **AI, full-stack development, and civic 
 
 <div align="center">
 
-<!-- Languages -->
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -98,7 +95,6 @@ Currently exploring the intersection of **AI, full-stack development, and civic 
 
 <div align="center">
 
-<!-- Replace Master1910-oct with your actual GitHub username below -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 
@@ -106,7 +102,6 @@ Currently exploring the intersection of **AI, full-stack development, and civic 
 
 <div align="center">
 
-<!-- Replace Master1910-oct below -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Master1910-oct&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
@@ -142,7 +137,7 @@ Currently exploring the intersection of **AI, full-stack development, and civic 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-aakash1910v%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakash1910v@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-v-a728b9288)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Master1910-oct)
 
 </div>
