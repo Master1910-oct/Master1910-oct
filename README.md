@@ -1,151 +1,198 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Undergrad%20%7C%20Building%20Intelligent%20Practical%20Solutions&descAlignY=62&descSize=16" width="100%"/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aakash+V+%F0%9F%91%8B;AI+%26+Data+Science+Undergraduate;ML+Engineer+%7C+Problem+Solver;Building+intelligent%2C+practical+solutions" alt="Typing SVG" />
-
-<br/>
-
-![Location](https://img.shields.io/badge/Chennai%2C%20India-0078D7?style=flat&logo=googlemaps&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.20%2F10-brightgreen?style=flat)
-![Degree](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-purple?style=flat)
-![Year](https://img.shields.io/badge/Batch-2023--2027-orange?style=flat)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Master1910-oct.Master1910-oct)
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Undergraduate;Python+%7C+ML+%7C+Computer+Vision+%7C+YOLO;Building+Smart+Civic+%26+Healthcare+Solutions;Turning+Data+into+Real-World+Impact" alt="Typing SVG"/>
+  </a>
 </div>
 
 ---
 
-## 🙋‍♂️ About me
+## 🧑‍💻 About Me
 
-I'm an **AI & Data Science undergraduate** at R.M.K. College of Engineering and Technology, Chennai, passionate about building intelligent systems that solve real-world problems. From detecting product expiry dates with computer vision to predicting sepsis in ICU patients using ensemble ML models — I love turning data into decisions.
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-Currently exploring the intersection of **AI, full-stack development, and civic tech**, and always on the lookout for meaningful projects to contribute to.
+```python
+# about_me.py
+
+name        = "Aakash V"
+location    = "Chennai, India"
+degree      = "B.Tech AI & Data Science, R.M.K. College of Engg & Tech"
+stack       = ["Python", "Java", "MySQL", "HTML & CSS", "Pandas", "NumPy"]
+tools       = ["Jupyter Notebook", "Google Colab", "Git & GitHub", "Postman"]
+learning    = ["Deep Learning", "MLOps", "Cloud Computing"]
+fun_fact    = "I built a sepsis predictor trained on 1.55M ICU records!"
+motto       = lambda: "Build intelligently. Solve practically. Impact meaningfully."
+```
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech stack
-
-<div align="center">
+## 🛠 Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Libraries & Frameworks**
+**Frameworks & Libraries**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Tools & Platforms**
+**Cloud & DevOps**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Aakash's GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Master1910-oct&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Master1910-oct&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Master1910-oct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+<summary>🏢 <strong>Altruisty</strong> · MERN Full-Stack Development Intern · 2024 · 📍 Remote</summary>
+<br>
+
+> `MongoDB` `Express.js` `React` `Node.js` `REST APIs`
+
+- Developed responsive, user-friendly websites using the full MERN stack with clean UI/UX design.
+- Built and integrated backend REST APIs for seamless frontend-to-database communication.
+- Implemented database integration and managed schema design for dynamic web applications.
+- Strengthened practical skills in both front-end and back-end development through real-world project delivery.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 🛠 Stack | ✨ Highlights |
+|:---:|:---:|:---|
+| [**Expiry Detection System**](https://github.com/Master1910-oct) | `Python` `YOLO` `OCR` `Regex` | AI-based system to auto-detect expiry dates from product labels with real-time alerts, inventory tracking & dashboard analytics |
+| [**Smart Civic Issue Management System**](https://github.com/Master1910-oct) | `Python` `AI/ML` `REST API` | Crowdsourced issue reporting platform with photo/voice/text input, AI complaint classification & automated dept. routing |
+| [**Prediction of Sepsis**](https://github.com/Master1910-oct) | `Python` `XGBoost` `LightGBM` `Pandas` | Early warning system trained on 1.55M ICU records with 24-parameter analysis, Platt calibration & real-time clinical dashboards |
 
 </div>
 
 ---
 
-## 🚀 Featured projects
-
-### 🧴 Expiry Detection System
-> AI-powered product expiry detection for supermarket inventory management
-
-- Built using **YOLO + OCR + Regex** to automatically detect and extract expiry dates from product labels
-- Implemented **real-time alerts**, inventory tracking, and dashboard analytics
-- Reduces wastage and optimizes stock management at scale
-
----
-
-### 🏙️ Smart Civic Issue Management System
-> Crowdsourced platform for citizen-to-government issue reporting
-
-- Citizens report issues via **photo, voice/text, and auto-location tagging**
-- **AI-based complaint classification** with automated routing to relevant departments
-- Real-time tracking dashboards for government officials to monitor resolution status
-
----
-
-### 🏥 Prediction of Sepsis
-> Early warning system for ICU patients using large-scale clinical data
-
-- Trained on **1.55M ICU records** with 24-parameter analysis and ML-based risk scoring
-- **XGBoost–LightGBM ensemble** with Platt calibration for probability output
-- Automated tier classification and real-time clinical dashboards for ICU decision support
-
----
-
-### 🌐 MERN Full-Stack Development *(Altruisty Internship)*
-> Hands-on internship building responsive web applications
-
-- Developed user-friendly websites using the **MERN stack**
-- Covered front-end design, backend API development, and database integration
-
----
-
-## 📊 GitHub stats
+## 🏅 Achievements & Certifications
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Master1910-oct&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+| 🏅 | Achievement | Details |
+|:---:|:---|:---|
+| 📜 | **NPTEL — Python for Data Science** | Certified by IIT/NPTEL |
+| 📜 | **NPTEL — Programming in Python** | Certified by IIT/NPTEL |
+| 📜 | **NPTEL — Design Thinking: A Primer** | Certified by IIT/NPTEL |
+| 📜 | **NPTEL — Cloud Computing** | Certified by IIT/NPTEL |
+| 📜 | **Great Learning — Python for Data Science** | Certified by Great Learning |
+| 🏆 | **Postman API Fundamentals Student Expert** | Certified by Postman |
+| 🌟 | **Infosys — Email Writing & Communicating to Succeed** | Corporate Communication Certification |
+| 💯 | **SSLC — 100%** | Jaigopal Garodia Matriculation Higher Secondary School |
 
 </div>
 
 ---
 
-## 🏅 Certifications
-
-| Issuer | Certificate |
-|--------|------------|
-| 🎓 NPTEL | Python for Data Science |
-| 🎓 NPTEL | Programming in Python |
-| 🎓 NPTEL | Design Thinking — A Primer |
-| 🎓 NPTEL | Cloud Computing |
-| 📘 Great Learning | Python for Data Science |
-| 🏢 Infosys | Email Writing — Communicating to Succeed |
-| 🔧 Postman | API Fundamentals Student Expert |
-
----
-
-## 📚 Education
-
-| Degree | Institution | Year | Score |
-|--------|------------|------|-------|
-| B.Tech — AI & Data Science | R.M.K. College of Engineering and Technology | 2023–2027 | CGPA: 8.20 / 10 |
-| Higher Secondary (State Board) | Jaigopal Garodia Matriculation Hr. Sec. School | 2022–2023 | 82% |
-| Secondary School (State Board) | Jaigopal Garodia Matriculation Hr. Sec. School | 2020–2021 | 100% |
-
----
-
-## 🤝 Let's connect
+## 🎓 Education
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-aakash1910v%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakash1910v@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-v-a728b9288)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Master1910-oct)
+| 🎓 Degree | 🏛 Institution | 📅 Year | 📊 Score |
+|:---:|:---:|:---:|:---:|
+| B.Tech — AI & Data Science | R.M.K. College of Engineering and Technology | 2023 – 2027 | 8.20 / 10 |
+| Higher Secondary (State Board) | Jaigopal Garodia Matric. Hr. Sec. School | 2022 – 2023 | 82% |
+| Secondary School (State Board) | Jaigopal Garodia Matric. Hr. Sec. School | 2020 – 2021 | 100% |
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```python
+currently_learning = {
+    "deep_learning"   : "Neural networks, CNNs, RNNs for advanced AI projects",
+    "mlops"           : "Model deployment, monitoring & CI/CD for ML pipelines",
+    "cloud_computing" : "AWS fundamentals and cloud-based AI services",
+}
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-aakash1910v%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aakash1910v@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakash%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-v-a728b9288/)
+[![GitHub](https://img.shields.io/badge/GitHub-Master1910--oct-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Master1910-oct)
 
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Master1910-oct&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
 
-*"Building intelligent systems, one dataset at a time."*
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
