@@ -1,10 +1,12 @@
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%2C%20Practical%20Solutions&descAlignY=62&descSize=16" alt="header" width="100%"/>
-</picture>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Aakash+V+%F0%9F%91%8B;AI+%26+Data+Science+Undergraduate;Building+Intelligent+Practical+Solutions;Python+%7C+Java+%7C+ML+%7C+YOLO+%7C+XGBoost)](https://readme-typing-svg.demolab.com)
+# 👋 Hi, I'm Aakash V
+
+### AI & Data Science Engineer | Building Intelligent, Practical Solutions
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate+%F0%9F%A4%96;Building+Intelligent+Practical+Solutions+%F0%9F%9A%80;Python+%7C+Java+%7C+ML+%7C+YOLO+%7C+XGBoost;R.M.K.+College+of+Engineering+%7C+CGPA+8.20)](https://readme-typing-svg.demolab.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Master1910-oct&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -92,7 +94,7 @@ print(me.motto())
 <a href="https://github.com/Master1910-oct">
   <img height="180em" src="./profile/stats.svg"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/Master1910-oct">
   <img height="180em" src="./profile/langs.svg"/>
 </a>
@@ -126,7 +128,7 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/Master1910-oct">
-  <img src="./profile/trophy.svg" alt="Aakash's Trophies"/>
+  <img src="./profile/trophy.svg" alt="Trophies"/>
 </a>
 
 </div>
@@ -221,8 +223,6 @@ print(me.motto())
 [![GitHub](https://img.shields.io/badge/GitHub-Master1910--oct-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Master1910-oct)
 [![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai,India)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Master1910-oct&color=70a5fd&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
@@ -232,5 +232,3 @@ print(me.motto())
   <br/>
   <sub>— Aakash V</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
