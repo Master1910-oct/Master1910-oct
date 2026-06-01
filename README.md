@@ -19,9 +19,9 @@
 
 name        = "Aakash V"
 location    = "Chennai, India"
-degree      = "B.Tech AI & Data Science, R.M.K. College of Engg & Tech"
+degree      = "B.Tech AI and Data Science, R.M.K. College of Engg and Tech"
 stack       = ["Python", "Java", "MySQL", "HTML and CSS", "Pandas", "NumPy"]
-tools       = ["Jupyter Notebook", "Google Colab", "Git & GitHub", "Postman"]
+tools       = ["Jupyter Notebook", "Google Colab", "Git and GitHub", "Postman"]
 learning    = ["Deep Learning", "MLOps", "Cloud Computing"]
 fun_fact    = "I built a sepsis predictor trained on 1.55M ICU records!"
 motto       = lambda: "Build intelligently. Solve practically. Impact meaningfully."
@@ -170,7 +170,7 @@ motto       = lambda: "Build intelligently. Solve practically. Impact meaningful
 ```python
 currently_learning = {
     "deep_learning"   : "Neural networks, CNNs, RNNs for advanced AI projects",
-    "mlops"           : "Model deployment, monitoring & CI/CD for ML pipelines",
+    "mlops"           : "Model deployment, monitoring and CI/CD for ML pipelines",
     "cloud_computing" : "AWS fundamentals and cloud-based AI services",
 }
 ```
