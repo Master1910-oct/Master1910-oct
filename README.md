@@ -10,7 +10,7 @@
 ![CGPA](https://img.shields.io/badge/CGPA-8.20%2F10-brightgreen?style=flat)
 ![Degree](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-purple?style=flat)
 ![Year](https://img.shields.io/badge/Batch-2023--2027-orange?style=flat)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Master1910-oct.Master1910-oct)
 
 </div>
 
@@ -98,16 +98,16 @@ Currently exploring the intersection of **AI, full-stack development, and civic 
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+<!-- Replace Master1910-oct with your actual GitHub username below -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME below -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<!-- Replace Master1910-oct below -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Master1910-oct&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -143,7 +143,7 @@ Currently exploring the intersection of **AI, full-stack development, and civic 
 
 [![Email](https://img.shields.io/badge/Email-aakash1910v%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakash1910v@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Master1910-oct)
 
 </div>
 
