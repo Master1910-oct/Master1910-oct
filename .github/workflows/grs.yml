@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -16,20 +18,39 @@ jobs:
 
       - name: Download stats card
         run: |
-          curl -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"
+          curl -f -o profile/stats.svg \
+            "https://github-readme-stats.vercel.app/api?username=Master1910-oct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" \
+            || echo "Stats download failed, keeping existing"
 
       - name: Download top languages card
         run: |
-          curl -o profile/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"
+          curl -f -o profile/langs.svg \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=Master1910-oct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" \
+            || echo "Langs download failed, keeping existing"
 
       - name: Download trophy card
         run: |
-          curl -o profile/trophy.svg "https://github-profile-trophy.vercel.app/?username=Master1910-oct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"
+          curl -f -o profile/trophy.svg \
+            "https://github-profile-trophy.vercel.app/?username=Master1910-oct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" \
+            || echo "Trophy download failed, keeping existing"
+
+      - name: Validate SVGs
+        run: |
+          for f in profile/stats.svg profile/langs.svg profile/trophy.svg; do
+            if [ -f "$f" ]; then
+              if grep -q "<svg" "$f"; then
+                echo "✅ $f is valid SVG"
+              else
+                echo "❌ $f is NOT a valid SVG (likely an error page) — deleting"
+                rm "$f"
+              fi
+            fi
+          done
 
       - name: Commit cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/
-          git commit -m "chore: update readme stat cards" || exit 0
-          git push
+          git commit -m "chore: update readme stat cards" || echo "Nothing to commit"
+          git push || echo "Nothing to push"
